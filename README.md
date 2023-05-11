@@ -1,5 +1,5 @@
 # OAEbud Wireless Earbuds Firmware
-This README file will guide you through the process of running the firmware for a pair of wireless [OAEbud](https://github.com/MalekItani/WirelessHardware) earbuds. The following sections outline the hardware and software dependencies, as well as the steps required to flash the firmware onto the earbuds' circuit board.
+This README file will guide you through the process of running the firmware for a pair of wireless [OAEbud](https://github.com/uw-x/WirelessHardware) earbuds. The following sections outline the hardware and software dependencies, as well as the steps required to flash the firmware onto the earbuds' circuit board.
 
 # Hardware Dependencies/Requirements
 Programming the wireless OAEbud circuit board requires a hardware programmer. The one used for this project was the J-link EDU from Segger.
